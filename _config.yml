@@ -2,12 +2,12 @@
 title: Ck is...?
 email: xhal1214@gmail.com
 description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "alrin12.github.io" # the subpath of your site, e.g. /blog
 url: "https://Alrin12.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: Ck is...?
 user_description: Some text about you.
 disqus_username: disqus_username
 
