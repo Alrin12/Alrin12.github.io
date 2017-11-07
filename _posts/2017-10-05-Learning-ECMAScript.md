@@ -2,7 +2,7 @@
 layout: post
 title: "Learning ECMAScript"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
+image: 'https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiZ4-mgxazXAhUNNrwKHdqmBjwQjRwIBw&url=https%3A%2F%2Fcode.tutsplus.com%2Ftutorials%2Fecmascript-6-power-tutorial-class-and-inheritance--cms-24117&psig=AOvVaw2fmtfKhwtxGazLBdDeWuvC&ust=1510146757399591'
 category: 'blog'
 ---
 # Data type
