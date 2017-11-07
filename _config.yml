@@ -2,7 +2,7 @@
 title: Ck is...?
 email: xhal1214@gmail.com
 description: Some text about your blog.
-baseurl: "alrin12.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Alrin12.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
