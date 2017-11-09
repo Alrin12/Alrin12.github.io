@@ -33,7 +33,7 @@ comments: false
  * 사실, 메모리의 주소를 참조하는 것이 포인터이다.
  즉, C나 C++이 아닌 Java, Python 또는 Javascript에서 포인터가 없다는 것은 틀린 말이다.
  가령 아래와 같은 예시가 있다고 해보자.
- ``` python
+ ```python
  a = 1
  b = a
  a += 1
