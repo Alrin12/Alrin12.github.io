@@ -1,3 +1,10 @@
+---
+layout: post
+title: ECMAScript Prototype
+tags: [ECMAScript, Javascript, Data type, Object]
+date: 2017-09-27
+comments: false
+---
 ## Prototype Object
 - Javascript의 모든 Object는 자신의 Prototype 객체를 가리키는 [[Prototype]]이라는 property를 가진다.
 여기서 자신의 Prototype 객체란 클래스 기반 언어들에서 말하는 '부모 클래스'와 유사하다고 생각하면 된다.
