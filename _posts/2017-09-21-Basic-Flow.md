@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: ECMAScript Basic Flow
 tags: [ECMAScript, Javascript, Data type, Object]
 date: 2017-09-21
