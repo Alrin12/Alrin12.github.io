@@ -8,7 +8,7 @@ comments: false
 # Data type
  ECMAScript의 자료형은 7개로, 각각의 자료형은 아래와 같다.
  
- ## Primitive Data Type
+  ## Primitive Data Type
   
   ### Boolean
   - Bool이 고안한 대수 체계로, 컴퓨터에서는 연산의 값이 두개의 상태(True, False)로 귀결되는 것을 표현한 것이다.
@@ -71,15 +71,15 @@ printf('%d', %b); // 2
 
 # Object의 생성
 
- ### Object literal
+  ### Object literal
     - 객체의 생성 방법 중 가장 간결한 방식이다.
     중괄호를 사용하여 객체를 생성하며, property를 부여하지 않으면 빈 객체가 생성된다.
 
- ### Object 생성자 함수
+  ### Object 생성자 함수
     - new 연산자와 Object()생성자 함수를 사용하여 object를 만드는 방법이다.
     어떤 방법으로든 object를 생성할때, 실제 내부 동작은 모두 이 방법에 의해서 생성이 된다. 따라서 일반적인 경우에 굳이 이 방식으로 object를 만들 이유는 없다.
     
- ### 생성자 함수
+  ### 생성자 함수
     - 생성자 함수란, form이 같은 object를 찍어내는 함수이다.
     즉, property의 값 부분은 같은데 이름이 다른 여러 object를 만들 때 유용하게 사용되며, 이 때 'this'연산자를 이용한 형태가 자주 등장한다.
 
