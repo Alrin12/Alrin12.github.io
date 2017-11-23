@@ -27,13 +27,12 @@ layout: compress
                         <i class="fa fa-clock-o"></i> {% include read-time.html %}
                     </p>
                     <!-- /.entry-reading-time -->
-                    {% endif %}
-                    {% if page.project %}
+                    {% endif %} {% if page.project %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
                     {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
                     {% endif %}
-                    <a class="btn zoombtn" href="{{site.url}}/ECMAScript/">
+                        <a class="btn zoombtn" href="{{site.url}}/ECMAScript/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>
